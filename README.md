@@ -9,10 +9,10 @@ By analysing the suicidal trend and relationship between suicide rate and other 
 - Matplotlib
 - Seaborn
 ### Definition
-  The Government of India classifies a death as suicide if it meets the following three criteria:
-   ➤death
-   ➤The intent to die originated within the person.
-   ➤There is a reason for the person to end his or her life. The reason may have been specified in a suicide 
+The Government of India classifies a death as suicide if it meets the following three criteria:
+   - death
+   - The intent to die originated within the person.
+   - There is a reason for the person to end his or her life. The reason may have been specified in a suicide 
         note or unspecified.
 ### Regional trends
 Among states, majority of suicides were reported in Maharashtra (22,746) followed by 19,834 in Tamil Nadu and 15,386 in Madhya Pradesh. Four states - Maharashtra, Tamil Nadu, Karnataka, West Bengal - together accounted for nearly half of the total suicides reported in the country.
