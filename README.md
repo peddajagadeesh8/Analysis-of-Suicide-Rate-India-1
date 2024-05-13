@@ -8,3 +8,6 @@ By analysing the suicidal trend and relationship between suicide rate and other 
 - Pandas
 - Matplotlib
 - Seaborn
+### Regional trends
+Among states, majority of suicides were reported in Maharashtra (22,746) followed by 19,834 in Tamil Nadu and 15,386 in Madhya Pradesh. Four states - Maharashtra, Tamil Nadu, Karnataka, West Bengal - together accounted for nearly half of the total suicides reported in the country.
+### Suicide in India
