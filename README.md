@@ -26,9 +26,9 @@ Suicide is a major national public health issue in the India. 1.71 lakh suicides
 - Gender disparities: Gender-based violence, discrimination, and unequal access to resources can contribute to higher suicide rates among certain genders, particularly women.
 
 ### Dataset
-➤Suicides in India 2001-2012.csv
-   ➤The dataset used for this analysis is available in this file. 
-   ➤It contains information about unemployment rates, employment, labor participation, and other relevant 
+- Suicides in India 2001-2012.csv
+- The dataset used for this analysis is available in this file. 
+- It contains information about unemployment rates, employment, labor participation, and other relevant 
      factors for different states and regions.
 ### Code
 ➤The python project.ipynb file contains the Jupyter Notebook code used for data analysis and visualization.
