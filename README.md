@@ -10,32 +10,20 @@ By analysing the suicidal trend and relationship between suicide rate and other 
 - Seaborn
 ### Definition
   The Government of India classifies a death as suicide if it meets the following three criteria:
-      ➤death
-      ➤The intent to die originated within the person.
-      ➤There is a reason for the person to end his or her life. The reason may have been specified in a suicide 
+   ➤death
+   ➤The intent to die originated within the person.
+   ➤There is a reason for the person to end his or her life. The reason may have been specified in a suicide 
         note or unspecified.
 ### Regional trends
 Among states, majority of suicides were reported in Maharashtra (22,746) followed by 19,834 in Tamil Nadu and 15,386 in Madhya Pradesh. Four states - Maharashtra, Tamil Nadu, Karnataka, West Bengal - together accounted for nearly half of the total suicides reported in the country.
 ### Suicide in India
 Suicide is a major national public health issue in the India. 1.71 lakh suicides were recorded in 2022, registering a 4.2% increase over 2021 and a jump of 27% compared to 2018. The rate of suicide per one lakh population has increased to 12.4 in 2022 which is the highest rate of deaths from suicides since 1967, which is the earliest recorded year for this data.
-### Factors contributing to suicide in India In 2019
-### Contributing Factors	Percentage (%)
-Family problems           32.4	
-Illness	                  17.1
-alcohol addiction	        5.6
-Marriage related issues   5.5
-Love affairs	            4.5
-Bankruptcy/indebtedness	  4.2
-Failure in examination	  2.0
-Unemployment	            2.0
-Career problem	          1.2
-Property dispute	        1.1
-Death of dear person	    0.9
-Poverty	                  0.8
-Suspected relation	      0.5
-Fall in social reputation	0.4
-Impotency/infertility   	0.3
-Other causes	            11.1
+### Factors contributing to suicide in India 
+- Socioeconomic stressors: Economic instability, poverty, unemployment, and debt can create significant psychological strain and contribute to feelings of hopelessness.
+- Mental health issues: Untreated mental illnesses such as depression, anxiety disorders, and substance abuse disorders can significantly increase the risk of suicide.
+- Social and familial pressures: Cultural expectations, stigma surrounding mental health, and interpersonal conflicts within families or communities can exacerbate distress and contribute to suicidal ideation.
+- Access to means: Easy access to lethal means, such as pesticides, and lack of effective regulation can increase the likelihood of impulsive suicides.
+- Gender disparities: Gender-based violence, discrimination, and unequal access to resources can contribute to higher suicide rates among certain genders, particularly women.
 
 ### Dataset
 ➤Suicides in India 2001-2012.csv
